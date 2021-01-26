@@ -1,14 +1,14 @@
 {
-  "name": "backend",
+  "name": "API lawanda.shop",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
     "type": "module"
   },
   "keywords": [],
-  "author": "",
+  "author": "JOSE FUENTES :: tupaginaonline.net",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
