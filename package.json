@@ -4,9 +4,9 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon src/index.js --exec babel-node",
-    "type": "module"
+    "dev": "nodemon src/index.js --exec babel-node"
   },
+  "type": "module",
   "keywords": [],
   "author": "JOSE FUENTES :: tupaginaonline.net",
   "license": "ISC",
